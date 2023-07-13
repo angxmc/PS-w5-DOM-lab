@@ -22,7 +22,7 @@ topMenuEl.style.height = "100%";
 //task 2.2
 topMenuEl.style.backgroundColor = "var(--top-menu-bg)";
 //task 2.3
-topMenuEl.classList.add("flex-round");
+topMenuEl.classList.add("flex-around");
 //---------------------------------------------------------------------------------------
 //task 3.0 copied
 //task 3.1
